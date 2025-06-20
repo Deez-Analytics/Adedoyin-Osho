@@ -1,27 +1,26 @@
 
 # 👋 Hello, I'm Adedoyin!
 
-🎯 Passionate about Data Analysis, Content Creation & Virtual Assistance  
+💼 **Aspiring Data Analyst | Excel • SQL • Power BI • Python**  
 📍 Based in Nigeria | 🌍 Open to global opportunities, freelance and remote roles  
-💡 Currently learning: Power BI | SQL | Python  
-🧑‍🏫 I mentor and support aspiring Data Analysts & Digital Professionals  
 ---
 
 ## 🧠 About Me
 I'm a passionate data enthusiast transitioning from admin support and virtual assistance into data analysis. I enjoy cleaning messy data, creating insightful dashboards, and telling stories with numbers.
-
 I share my learning journey, projects, and beginner resources to help others grow too!
 ---
 
 ## 🚀 What I Do
 - Data Cleaning & Visualization
+- Storytelling with data
 - Admin Virtual Assistance (Google Workspace, Project Management)
 - Helping businesses and brands make better decisions with data  
 - Creating Data-Focused Educational Content
+- I mentor and support aspiring Data Analysts & Digital Professionals 
 ---
 
 ## 🧰 Tools I Use
-`Excel` | `Power BI` | `Google Sheets` | `SQL` | `Tableau` | `Canva` | `Notion`
+`Excel` | `Power BI` | `Google Sheets` | `SQL` | `Tableau` | `Canva` | `Notion` | `Teams` | `Google Workspace`
 ---
 
 ## 📂 Featured Projects
